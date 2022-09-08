@@ -1,4 +1,4 @@
-# COFFELOVERS
+ COFFELOVERS
 Nossa cafeteria irá ser inaugurada no dia 01/08/2022 às 09:00 da manhã.
 O'Que você poderá encontrar na nossa cafeteria?
 Nessa local você encontra produtos variados com muito sabor, produtos feitos diretamente
@@ -15,7 +15,7 @@ Nossa localização
 Localização: Avenida Brasil , número: 368
 Telefone para contato: (41)99845-1734
 
-Esperamos por você !!!
+<strong>Esperamos por você !!!</strong>
 
 Temos produtos variados, com muito sabor e qualidade para você e sua família
 aproveitarem os melhores sabores da vida.
