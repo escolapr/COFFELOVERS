@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+ <html lang="pt-br">
+  <head>
+  <meta charset="utf-8">
+  <title>Coffe Lovers</title>
+   <link rel="stylesheet" href="style.css">
+   </head>
+    <body>
+    <header>
+     <h1>Coffe Lovers</h1>
+      </header>
+      <img id="banner" src="banner">
+      <h1>COFFE LOVERS</h1>
+      <p>Localizada no coração da cidade, nossa cafeteria vem ganhando cada vez mais clientes,venha você também nos conhecer.</p> <p><strong>O'Que você poderá encontrar na nossa cafeteria?</p></strong>
+      <p><em>Nesse local você encontra produtos variados com muito sabor, produtos feitos diretamente para você e sua família, neste local produzimos as maiores variações de cafés e alimentos com muita qualidade.</em></p>
+     <p>Você vai encontrar os <strong>melhores sabores</strong>, num lugar aconchegante, aqui você poderá comer e tomar seu café com sua família em espaços reservados para nossos clientes, com um cardapio muito amplo de variedades.</p>
+      <em><p></pstyle>Mas é claro, tudo isso com o café que você escolhe, feito do seu jeito. Tudo isso com um ótimo atendimento de nossos funcionários, para que você aproveite da melhor forma possível este espaço.</em></p>
+       <p id="missao"><strong>
+    <p>Nossa localização</p></strong>
+    <p><strong>Avenida Brasil</strong> ,<strong>Número: 368</p></strong>
+     <p>Telefone para contato: (41)99845-1734</p>
+      <p id="missao" ><strong>
+      <p>Esperamos por você !!!</strong></p>
+      <p id="missao" ><strong><em>
+      <p>"Temos produtos variados, com muito sabor e qualidade para você e sua família aproveitarem os melhores sabores da vida!"</em></strong></p>
+       </body>
+       </html>
